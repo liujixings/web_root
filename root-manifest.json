@@ -5,12 +5,12 @@
          "version" : "OS3.0.10.0.WPACNXM",
          "sha256" : "824496f460eebcf76a37dd0f7a8cc483b749a27a760bc487dbe3fe23e8a778f1",
          "assetName" : "nezha_init_boot_OS3.0.10.0.WPACNXM.img",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/nezha_init_boot_OS3.0.10.0.WPACNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/nezha_init_boot_OS3.0.10.0.WPACNXM.img",
          "model" : "nezha"
       },
       {
          "model" : "nezha",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/nezha_init_boot_OS3.0.12.0.WPACNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/nezha_init_boot_OS3.0.12.0.WPACNXM.img",
          "version" : "OS3.0.12.0.WPACNXM",
          "partition" : "init_boot",
          "assetName" : "nezha_init_boot_OS3.0.12.0.WPACNXM.img",
@@ -21,7 +21,7 @@
          "assetName" : "nezha_init_boot_OS3.0.15.0.WPACNXM.img",
          "partition" : "init_boot",
          "version" : "OS3.0.15.0.WPACNXM",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/nezha_init_boot_OS3.0.15.0.WPACNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/nezha_init_boot_OS3.0.15.0.WPACNXM.img",
          "model" : "nezha"
       },
       {
@@ -30,14 +30,14 @@
          "version" : "OS3.0.300.2.WPACNXM",
          "partition" : "init_boot",
          "model" : "nezha",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/nezha_init_boot_OS3.0.300.2.WPACNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/nezha_init_boot_OS3.0.300.2.WPACNXM.img"
       },
       {
          "sha256" : "8f0ecc0e36ff82adf8ef3f7d15226c7023d033237aabd9a34e89b29625e89bc3",
          "assetName" : "nezha_init_boot_OS3.0.300.4.WPACNXM.img",
          "partition" : "init_boot",
          "version" : "OS3.0.300.4.WPACNXM",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/nezha_init_boot_OS3.0.300.4.WPACNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/nezha_init_boot_OS3.0.300.4.WPACNXM.img",
          "model" : "nezha"
       },
       {
@@ -45,7 +45,7 @@
          "version" : "OS3.0.300.7.WPACNXM",
          "sha256" : "a2b8bef26df22214eb9761918aa92b4979352b368834a4655df4066d31414122",
          "assetName" : "nezha_init_boot_OS3.0.300.7.WPACNXM.img",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/nezha_init_boot_OS3.0.300.7.WPACNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/nezha_init_boot_OS3.0.300.7.WPACNXM.img",
          "model" : "nezha"
       },
       {
@@ -53,7 +53,7 @@
          "version" : "OS3.0.7.0.WPACNXM",
          "sha256" : "9551884ac4fbdd77eda44e59fa8448fd6ed51001cfa0929a8ff2f18d8675ff94",
          "assetName" : "nezha_init_boot_OS3.0.7.0.WPACNXM.img",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/nezha_init_boot_OS3.0.7.0.WPACNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/nezha_init_boot_OS3.0.7.0.WPACNXM.img",
          "model" : "nezha"
       },
       {
@@ -61,7 +61,7 @@
          "version" : "OS3.0.8.0.WPACNXM",
          "sha256" : "c2da2653053ef157640d7ab5e6e246edffa80dfee3634ac78b8eeb2c5c825560",
          "assetName" : "nezha_init_boot_OS3.0.8.0.WPACNXM.img",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/nezha_init_boot_OS3.0.8.0.WPACNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/nezha_init_boot_OS3.0.8.0.WPACNXM.img",
          "model" : "nezha"
       },
       {
@@ -69,12 +69,12 @@
          "version" : "OS3.0.16.0.WBLCNXM",
          "sha256" : "0737e44e052485329c680f66aab7d5fbbb6dbfe364c9cc285b6d9bd4d4881380",
          "assetName" : "pandora_init_boot_OS3.0.16.0.WBLCNXM.img",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.16.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.16.0.WBLCNXM.img",
          "model" : "pandora"
       },
       {
          "model" : "pandora",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.17.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.17.0.WBLCNXM.img",
          "version" : "OS3.0.17.0.WBLCNXM",
          "partition" : "init_boot",
          "assetName" : "pandora_init_boot_OS3.0.17.0.WBLCNXM.img",
@@ -82,14 +82,14 @@
       },
       {
          "model" : "pandora",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.20.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.20.0.WBLCNXM.img",
          "assetName" : "pandora_init_boot_OS3.0.20.0.WBLCNXM.img",
          "sha256" : "6044e5e06279bc2237df4d64e666665f75374bbe7988fd8396ecd27ecc61d65b",
          "version" : "OS3.0.20.0.WBLCNXM",
          "partition" : "init_boot"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.24.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.24.0.WBLCNXM.img",
          "model" : "pandora",
          "sha256" : "97703af5a28734c1ffaf8246e44660444b1369513f54e98a159d0c740dde50e8",
          "assetName" : "pandora_init_boot_OS3.0.24.0.WBLCNXM.img",
@@ -98,7 +98,7 @@
       },
       {
          "model" : "pandora",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.25.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.25.0.WBLCNXM.img",
          "assetName" : "pandora_init_boot_OS3.0.25.0.WBLCNXM.img",
          "sha256" : "e062d0ca4a9dc86cf8de030f13a224c02aa528b9501a94830abb734c579ca381",
          "version" : "OS3.0.25.0.WBLCNXM",
@@ -106,7 +106,7 @@
       },
       {
          "model" : "pandora",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.30.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.30.0.WBLCNXM.img",
          "version" : "OS3.0.30.0.WBLCNXM",
          "partition" : "init_boot",
          "assetName" : "pandora_init_boot_OS3.0.30.0.WBLCNXM.img",
@@ -114,7 +114,7 @@
       },
       {
          "model" : "pandora",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.3.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.3.0.WBLCNXM.img",
          "assetName" : "pandora_init_boot_OS3.0.3.0.WBLCNXM.img",
          "sha256" : "a888b900f3ef9644a5e712e7b7c00d8f777446e8978b4f0fbbf35587d8467152",
          "version" : "OS3.0.3.0.WBLCNXM",
@@ -125,7 +125,7 @@
          "version" : "OS3.0.34.0.WBLCNXM",
          "sha256" : "bfc829d075a6d9f98b3bb6f0f8d3a229d31384e6517f2e9bba9bf81f6c2828e4",
          "assetName" : "pandora_init_boot_OS3.0.34.0.WBLCNXM.img",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.34.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.34.0.WBLCNXM.img",
          "model" : "pandora"
       },
       {
@@ -134,18 +134,18 @@
          "version" : "OS3.0.36.0.WBLCNXM",
          "partition" : "init_boot",
          "model" : "pandora",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.36.0.WBLCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.36.0.WBLCNXM.img"
       },
       {
          "model" : "pandora",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.40.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.40.0.WBLCNXM.img",
          "assetName" : "pandora_init_boot_OS3.0.40.0.WBLCNXM.img",
          "sha256" : "1f1a1c91a899b193db7614ab221c4b120246dd884323d714553b8c14ca54ab66",
          "version" : "OS3.0.40.0.WBLCNXM",
          "partition" : "init_boot"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.41.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.41.0.WBLCNXM.img",
          "model" : "pandora",
          "sha256" : "9ad0db9b807a8a53fc0f5c937cf84245847db139911f658438248041695e47cb",
          "assetName" : "pandora_init_boot_OS3.0.41.0.WBLCNXM.img",
@@ -154,14 +154,14 @@
       },
       {
          "model" : "pandora",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.45.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.45.0.WBLCNXM.img",
          "version" : "OS3.0.45.0.WBLCNXM",
          "partition" : "init_boot",
          "assetName" : "pandora_init_boot_OS3.0.45.0.WBLCNXM.img",
          "sha256" : "41f3689d30799407936ebe62f71d1cde81b166d85e55e5f9e073dd17d918a207"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.5.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.5.0.WBLCNXM.img",
          "model" : "pandora",
          "partition" : "init_boot",
          "version" : "OS3.0.5.0.WBLCNXM",
@@ -169,7 +169,7 @@
          "assetName" : "pandora_init_boot_OS3.0.5.0.WBLCNXM.img"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pandora_init_boot_OS3.0.9.0.WBLCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pandora_init_boot_OS3.0.9.0.WBLCNXM.img",
          "model" : "pandora",
          "sha256" : "ba2bba20f7e590994560834c02402a820002bacab50c09678dfc28d4017ae372",
          "assetName" : "pandora_init_boot_OS3.0.9.0.WBLCNXM.img",
@@ -178,14 +178,14 @@
       },
       {
          "model" : "popsicle",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.16.0.WPBCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.16.0.WPBCNXM.img",
          "assetName" : "popsicle_init_boot_OS3.0.16.0.WPBCNXM.img",
          "sha256" : "3d5c6c4772e6b88e72a252b78fa81493ef966d6e6efd1a583889241991d88295",
          "version" : "OS3.0.16.0.WPBCNXM",
          "partition" : "init_boot"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.17.0.WPBCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.17.0.WPBCNXM.img",
          "model" : "popsicle",
          "partition" : "init_boot",
          "version" : "OS3.0.17.0.WPBCNXM",
@@ -194,7 +194,7 @@
       },
       {
          "model" : "popsicle",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.20.0.WPBCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.20.0.WPBCNXM.img",
          "version" : "OS3.0.20.0.WPBCNXM",
          "partition" : "init_boot",
          "assetName" : "popsicle_init_boot_OS3.0.20.0.WPBCNXM.img",
@@ -206,14 +206,14 @@
          "version" : "OS3.0.24.0.WPBCNXM",
          "partition" : "init_boot",
          "model" : "popsicle",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.24.0.WPBCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.24.0.WPBCNXM.img"
       },
       {
          "sha256" : "32cbf9e4abc0365a4370d9df3143ff45907b0be79f210f312a973d201607178c",
          "assetName" : "popsicle_init_boot_OS3.0.25.0.WPBCNXM.img",
          "partition" : "init_boot",
          "version" : "OS3.0.25.0.WPBCNXM",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.25.0.WPBCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.25.0.WPBCNXM.img",
          "model" : "popsicle"
       },
       {
@@ -221,7 +221,7 @@
          "version" : "OS3.0.300.2.WPBCNXM",
          "sha256" : "4d0455e4e16e4e7e33f1e69b840252c0f429fb0bb798fb96f60f280ed1b726f8",
          "assetName" : "popsicle_init_boot_OS3.0.300.2.WPBCNXM.img",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.300.2.WPBCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.300.2.WPBCNXM.img",
          "model" : "popsicle"
       },
       {
@@ -230,19 +230,19 @@
          "assetName" : "popsicle_init_boot_OS3.0.300.9.WPBCNXM.img",
          "sha256" : "6d0614eda5cd6ce150c42ecd6bf47a2fff44591d04025a0eb863e572d713a05d",
          "model" : "popsicle",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.300.9.WPBCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.300.9.WPBCNXM.img"
       },
       {
          "partition" : "init_boot",
          "version" : "OS3.0.30.0.WPBCNXM",
          "sha256" : "38c736c4df89c71b482b2d066ef7067bfe943e3f84834fe14bbf974595c5a7cf",
          "assetName" : "popsicle_init_boot_OS3.0.30.0.WPBCNXM.img",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.30.0.WPBCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.30.0.WPBCNXM.img",
          "model" : "popsicle"
       },
       {
          "model" : "popsicle",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.3.0.WPBCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.3.0.WPBCNXM.img",
          "assetName" : "popsicle_init_boot_OS3.0.3.0.WPBCNXM.img",
          "sha256" : "ba94088edfc654db968cb840151bac08326ed0bc5b159738690b63d6feae4659",
          "version" : "OS3.0.3.0.WPBCNXM",
@@ -253,7 +253,7 @@
          "assetName" : "popsicle_init_boot_OS3.0.32.0.WPBCNXM.img",
          "partition" : "init_boot",
          "version" : "OS3.0.32.0.WPBCNXM",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.32.0.WPBCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.32.0.WPBCNXM.img",
          "model" : "popsicle"
       },
       {
@@ -262,11 +262,11 @@
          "assetName" : "popsicle_init_boot_OS3.0.34.0.WPBCNXM.img",
          "sha256" : "03aa5ab124862cfc5eebae13dfa826c42eebff85a20160a3f389afc22b0e4b49",
          "model" : "popsicle",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.34.0.WPBCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.34.0.WPBCNXM.img"
       },
       {
          "model" : "popsicle",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.36.0.WPBCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.36.0.WPBCNXM.img",
          "assetName" : "popsicle_init_boot_OS3.0.36.0.WPBCNXM.img",
          "sha256" : "8f5ae527e2b75b986e3154e38e131ad9ae98f2d72b0eaa7e3baef8080bb1c7e9",
          "version" : "OS3.0.36.0.WPBCNXM",
@@ -278,7 +278,7 @@
          "assetName" : "popsicle_init_boot_OS3.0.40.0.WPBCNXM.img",
          "sha256" : "c589ccc97f2d08255b6ffcb3657dbec6e97315b013d4646566ebec6586e66ea5",
          "model" : "popsicle",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.40.0.WPBCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.40.0.WPBCNXM.img"
       },
       {
          "assetName" : "popsicle_init_boot_OS3.0.41.0.WPBCNXM.img",
@@ -286,10 +286,10 @@
          "version" : "OS3.0.41.0.WPBCNXM",
          "partition" : "init_boot",
          "model" : "popsicle",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.41.0.WPBCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.41.0.WPBCNXM.img"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.45.0.WPBCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.45.0.WPBCNXM.img",
          "model" : "popsicle",
          "sha256" : "133ccba70434ddb701cf79281fb6914278a9e6764e2d20cb9d3a07d3ee314d3a",
          "assetName" : "popsicle_init_boot_OS3.0.45.0.WPBCNXM.img",
@@ -301,7 +301,7 @@
          "assetName" : "popsicle_init_boot_OS3.0.5.0.WPBCNXM.img",
          "partition" : "init_boot",
          "version" : "OS3.0.5.0.WPBCNXM",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.5.0.WPBCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.5.0.WPBCNXM.img",
          "model" : "popsicle"
       },
       {
@@ -310,7 +310,7 @@
          "version" : "OS3.0.7.0.WPBCNXM",
          "partition" : "init_boot",
          "model" : "popsicle",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.7.0.WPBCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.7.0.WPBCNXM.img"
       },
       {
          "version" : "OS3.0.9.0.WPBCNXM",
@@ -318,7 +318,7 @@
          "assetName" : "popsicle_init_boot_OS3.0.9.0.WPBCNXM.img",
          "sha256" : "65e55adb23ace1e973fabf341e2c86c2480431f401e76f5668c054546cc96210",
          "model" : "popsicle",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/popsicle_init_boot_OS3.0.9.0.WPBCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/popsicle_init_boot_OS3.0.9.0.WPBCNXM.img"
       },
       {
          "version" : "OS3.0.16.0.WPCCNXM",
@@ -326,10 +326,10 @@
          "assetName" : "pudding_init_boot_OS3.0.16.0.WPCCNXM.img",
          "sha256" : "606e3149407d9c61cfbe893f5189943509a19e0cd70c118e30522bc2eefedd56",
          "model" : "pudding",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.16.0.WPCCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.16.0.WPCCNXM.img"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.17.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.17.0.WPCCNXM.img",
          "model" : "pudding",
          "sha256" : "e92ecefef1f42825919285f191feef372b05b368339a28d09bccd969d25d62a8",
          "assetName" : "pudding_init_boot_OS3.0.17.0.WPCCNXM.img",
@@ -341,12 +341,12 @@
          "assetName" : "pudding_init_boot_OS3.0.20.0.WPCCNXM.img",
          "partition" : "init_boot",
          "version" : "OS3.0.20.0.WPCCNXM",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.20.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.20.0.WPCCNXM.img",
          "model" : "pudding"
       },
       {
          "model" : "pudding",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.24.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.24.0.WPCCNXM.img",
          "version" : "OS3.0.24.0.WPCCNXM",
          "partition" : "init_boot",
          "assetName" : "pudding_init_boot_OS3.0.24.0.WPCCNXM.img",
@@ -358,7 +358,7 @@
          "assetName" : "pudding_init_boot_OS3.0.25.0.WPCCNXM.img",
          "sha256" : "a561cb15fd578e864270caeef3243dc137010f347391375bb61e0bcdfa199c5d",
          "model" : "pudding",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.25.0.WPCCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.25.0.WPCCNXM.img"
       },
       {
          "assetName" : "pudding_init_boot_OS3.0.300.3.WPCCNXM.img",
@@ -366,19 +366,19 @@
          "version" : "OS3.0.300.3.WPCCNXM",
          "partition" : "init_boot",
          "model" : "pudding",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.300.3.WPCCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.300.3.WPCCNXM.img"
       },
       {
          "sha256" : "15e50d74bd4acb25c8b552014b82ca15a72e4b59f9ce65fe21d2c2904f1654fb",
          "assetName" : "pudding_init_boot_OS3.0.300.9.WPCCNXM.img",
          "partition" : "init_boot",
          "version" : "OS3.0.300.9.WPCCNXM",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.300.9.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.300.9.WPCCNXM.img",
          "model" : "pudding"
       },
       {
          "model" : "pudding",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.30.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.30.0.WPCCNXM.img",
          "version" : "OS3.0.30.0.WPCCNXM",
          "partition" : "init_boot",
          "assetName" : "pudding_init_boot_OS3.0.30.0.WPCCNXM.img",
@@ -389,11 +389,11 @@
          "assetName" : "pudding_init_boot_OS3.0.304.0.WPCCNXM.img",
          "partition" : "init_boot",
          "version" : "OS3.0.304.0.WPCCNXM",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.304.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.304.0.WPCCNXM.img",
          "model" : "pudding"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.3.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.3.0.WPCCNXM.img",
          "model" : "pudding",
          "partition" : "init_boot",
          "version" : "OS3.0.3.0.WPCCNXM",
@@ -406,10 +406,10 @@
          "version" : "OS3.0.32.0.WPCCNXM",
          "partition" : "init_boot",
          "model" : "pudding",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.32.0.WPCCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.32.0.WPCCNXM.img"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.34.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.34.0.WPCCNXM.img",
          "model" : "pudding",
          "partition" : "init_boot",
          "version" : "OS3.0.34.0.WPCCNXM",
@@ -418,7 +418,7 @@
       },
       {
          "model" : "pudding",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.36.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.36.0.WPCCNXM.img",
          "version" : "OS3.0.36.0.WPCCNXM",
          "partition" : "init_boot",
          "assetName" : "pudding_init_boot_OS3.0.36.0.WPCCNXM.img",
@@ -430,7 +430,7 @@
          "version" : "OS3.0.40.0.WPCCNXM",
          "partition" : "init_boot",
          "model" : "pudding",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.40.0.WPCCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.40.0.WPCCNXM.img"
       },
       {
          "version" : "OS3.0.41.0.WPCCNXM",
@@ -438,26 +438,26 @@
          "assetName" : "pudding_init_boot_OS3.0.41.0.WPCCNXM.img",
          "sha256" : "09b0d27c39387a1327dfd0cb416ed1cddd8ac1aee0b7ca84713e3c3b1c319ac5",
          "model" : "pudding",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.41.0.WPCCNXM.img"
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.41.0.WPCCNXM.img"
       },
       {
          "partition" : "init_boot",
          "version" : "OS3.0.44.0.WPCCNXM",
          "sha256" : "a8187774bf434ecbd8bfe4ebfb897bffdf899785efdece3a6977cab8dafcfbad",
          "assetName" : "pudding_init_boot_OS3.0.44.0.WPCCNXM.img",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.44.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.44.0.WPCCNXM.img",
          "model" : "pudding"
       },
       {
          "model" : "pudding",
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.5.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.5.0.WPCCNXM.img",
          "version" : "OS3.0.5.0.WPCCNXM",
          "partition" : "init_boot",
          "assetName" : "pudding_init_boot_OS3.0.5.0.WPCCNXM.img",
          "sha256" : "30c7ca2ec8df9151cac3940a55843105101b6f531d0a0d395638ee7341a47680"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.7.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.7.0.WPCCNXM.img",
          "model" : "pudding",
          "partition" : "init_boot",
          "version" : "OS3.0.7.0.WPCCNXM",
@@ -465,7 +465,7 @@
          "assetName" : "pudding_init_boot_OS3.0.7.0.WPCCNXM.img"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.9.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.9.0.WPCCNXM.img",
          "model" : "pudding",
          "sha256" : "7678bba7f1bea35f574ed050b7dd2d6344d877ab7f921c02b93d0722b87f856d",
          "assetName" : "pudding_init_boot_OS3.0.9.0.WPCCNXM.img",
@@ -473,7 +473,7 @@
          "version" : "OS3.0.9.0.WPCCNXM"
       },
       {
-         "browserDownloadUrl" : "https://github.com/liujixings/web_root/releases/download/Mi17/pudding_init_boot_OS3.0.304.0.WPCCNXM.img",
+         "browserDownloadUrl" : "https://raw.githubusercontent.com/liujixings/web_root/Mi17/pudding_init_boot_OS3.0.304.0.WPCCNXM.img",
          "model" : "pudding",
          "sha256" : "5c7546fdafb44f57299126cd903f012dafeb37bb63dcf472a327e3a25906ccbc",
          "assetName" : "pudding_init_boot_OS3.0.304.0.WPCCNXM.img",
