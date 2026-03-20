@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Web Root Assistant</title>
+  <meta name="description" content="基于 ya-webadb + WebUSB + fastboot.js 的一键 Root 工具页面">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chivo:wght@400;700;900&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="bg-shape bg-shape-a"></div>
+  <div class="bg-shape bg-shape-b"></div>
+
+  <header class="topbar">
+    <div>
+      <h1>Web Root Assistant</h1>
+      <p>ya-webadb + WICG WebUSB + fastboot.js</p>
+    </div>
+    <div class="topbar-actions">
+      <button id="themeToggleBtn" class="icon-btn" title="主题模式" aria-label="主题模式">🖥</button>
+      <button id="openSettingsBtn" class="icon-btn" title="设置" aria-label="设置">⚙</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="card card-connect">
+      <div class="connect-head">
+        <h2>设备连接</h2>
+        <small>请在浏览器弹窗中选择对应 USB 设备</small>
+      </div>
+      <div class="row connect-actions">
+        <button id="connectAdbBtn" class="btn">连接 ADB</button>
+        <button id="connectFastbootBtn" class="btn">连接 Fastboot</button>
+      </div>
+      <div class="status-grid connect-status-grid">
+        <div class="connect-status-item">
+          <span>ADB</span>
+          <strong id="adbStatus">未连接</strong>
+        </div>
+        <div class="connect-status-item">
+          <span>Fastboot</span>
+          <strong id="fastbootStatus">未连接</strong>
+        </div>
+      </div>
+    </section>
+
+    <section class="card card-device">
+      <h2>设备信息</h2>
+      <div class="section-head">
+        <h3>ADB 信息</h3>
+        <button id="refreshAdbInfoBtn" class="btn secondary">刷新 ADB 信息</button>
+      </div>
+      <div class="status-grid">
+        <div><span>型号:</span> <strong id="deviceModel">-</strong></div>
+        <div><span>代号:</span> <strong id="deviceCodename">-</strong></div>
+        <div><span>安卓版本:</span> <strong id="deviceAndroid">-</strong></div>
+        <div><span>系统版本:</span> <strong id="deviceMiIncremental">-</strong></div>
+      </div>
+      <div class="section-head">
+        <h3>Fastboot 信息</h3>
+        <button id="refreshFastbootInfoBtn" class="btn secondary">刷新 Fastboot 信息</button>
+      </div>
+      <div class="status-grid">
+        <div><span>Product:</span> <strong id="fastbootProduct">-</strong></div>
+        <div><span>Serial:</span> <strong id="fastbootSerial">-</strong></div>
+        <div><span>Slot:</span> <strong id="fastbootSlot">-</strong></div>
+        <div><span>Bootloader:</span> <strong id="fastbootUnlocked">-</strong></div>
+      </div>
+    </section>
+
+    <section class="card card-manual-target">
+      <h2>手动模式</h2>
+      <div class="manual-wrap">
+        <div class="input-grid">
+          <label>
+            <span>设备型号/代号</span>
+            <select id="manualModelSelect"></select>
+          </label>
+          <label>
+            <span>系统版本</span>
+            <select id="manualVersionSelect"></select>
+          </label>
+          <label>
+            <span>手机当前状态</span>
+            <select id="manualCurrentStateSelect">
+              <option value="system">系统</option>
+              <option value="bootloader">bootloader</option>
+            </select>
+          </label>
+        </div>
+        <div class="row manual-root-row">
+          <button id="manualStartRootBtn" class="btn danger">开始 Root（手动模式）</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="card card-root">
+      <h2>一键 Root</h2>
+      <ol>
+        <li>ADB 读取设备型号和系统版本</li>
+        <li>重启到 Bootloader</li>
+        <li>按清单中的文件链接下载镜像</li>
+        <li>Fastboot 刷写到 init_boot 分区</li>
+        <li>重启设备</li>
+      </ol>
+      <div class="row root-action-row">
+        <button id="oneClickRootBtn" class="btn danger">开始一键 Root</button>
+      </div>
+    </section>
+
+    <section class="card card-actions">
+      <h2>重启操作</h2>
+      <div class="action-block">
+        <h3>ADB 重启</h3>
+        <div class="row">
+          <select id="adbRebootModeSelect">
+            <option value="system">system</option>
+            <option value="bootloader">bootloader</option>
+            <option value="fastbootd">fastbootd</option>
+            <option value="recovery">recovery</option>
+          </select>
+          <button id="adbRebootBtn" class="btn secondary">执行 ADB 重启</button>
+        </div>
+      </div>
+      <div class="action-block">
+        <h3>Fastboot 重启</h3>
+        <div class="row">
+          <select id="fastbootRebootModeSelect">
+            <option value="system">system</option>
+            <option value="bootloader">bootloader</option>
+            <option value="fastbootd">fastbootd</option>
+            <option value="recovery">recovery</option>
+          </select>
+          <button id="fastbootRebootBtn" class="btn secondary">执行 Fastboot 重启</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="card card-log">
+      <h2>日志</h2>
+      <div class="row">
+        <button id="clearLogBtn" class="btn ghost">清空日志</button>
+      </div>
+      <pre id="logOutput" class="log-view"></pre>
+    </section>
+  </main>
+
+  <dialog id="settingsDialog">
+    <form method="dialog" class="settings-form">
+      <h2>设置</h2>
+      <label>
+        <span>主题模式</span>
+        <select id="themeModeSelect">
+          <option value="system" selected>跟随系统（默认）</option>
+          <option value="light">浅色模式</option>
+          <option value="dark">黑暗模式</option>
+        </select>
+      </label>
+      <label class="checkbox-line">
+        <input id="debugLogCheckbox" type="checkbox">
+        <span>输出详细 Debug 日志（显示所有操作、指令、返回）</span>
+      </label>
+      <div class="row end">
+        <button class="btn secondary" value="close">关闭</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="autoConnectDialog">
+    <form method="dialog" class="settings-form">
+      <h2>设备连接中</h2>
+      <p id="autoConnectMessage">正在自动连接设备，请在浏览器弹窗中选择设备…</p>
+      <div class="row end">
+        <button class="btn secondary" value="cancel">取消</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="fastbootConnectDialog">
+    <form method="dialog" class="settings-form">
+      <h2>连接 Fastboot 设备</h2>
+      <p id="fastbootConnectMessage">设备重启进入 bootloader 后，请点击“连接设备”并在浏览器弹窗中选择 Fastboot 设备。</p>
+      <div class="row end">
+        <button id="fastbootConnectActionBtn" type="button" class="btn">连接设备</button>
+        <button id="fastbootConnectCloseBtn" class="btn secondary" value="close">关闭</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,417 @@
+{
+  "items": [
+    {
+      "model": "nezha",
+      "version": "OS3.0.10.0.WPACNXM",
+      "assetName": "nezha_init_boot_OS3.0.10.0.WPACNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/nezha_init_boot_OS3.0.10.0.WPACNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "nezha",
+      "version": "OS3.0.12.0.WPACNXM",
+      "assetName": "nezha_init_boot_OS3.0.12.0.WPACNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/nezha_init_boot_OS3.0.12.0.WPACNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "nezha",
+      "version": "OS3.0.15.0.WPACNXM",
+      "assetName": "nezha_init_boot_OS3.0.15.0.WPACNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/nezha_init_boot_OS3.0.15.0.WPACNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "nezha",
+      "version": "OS3.0.300.2.WPACNXM",
+      "assetName": "nezha_init_boot_OS3.0.300.2.WPACNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/nezha_init_boot_OS3.0.300.2.WPACNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "nezha",
+      "version": "OS3.0.300.4.WPACNXM",
+      "assetName": "nezha_init_boot_OS3.0.300.4.WPACNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/nezha_init_boot_OS3.0.300.4.WPACNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "nezha",
+      "version": "OS3.0.300.7.WPACNXM",
+      "assetName": "nezha_init_boot_OS3.0.300.7.WPACNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/nezha_init_boot_OS3.0.300.7.WPACNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "nezha",
+      "version": "OS3.0.7.0.WPACNXM",
+      "assetName": "nezha_init_boot_OS3.0.7.0.WPACNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/nezha_init_boot_OS3.0.7.0.WPACNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "nezha",
+      "version": "OS3.0.8.0.WPACNXM",
+      "assetName": "nezha_init_boot_OS3.0.8.0.WPACNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/nezha_init_boot_OS3.0.8.0.WPACNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.16.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.16.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.16.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.17.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.17.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.17.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.20.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.20.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.20.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.24.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.24.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.24.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.25.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.25.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.25.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.30.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.30.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.30.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.3.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.3.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.3.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.34.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.34.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.34.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.36.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.36.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.36.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.40.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.40.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.40.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.41.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.41.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.41.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.45.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.45.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.45.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.5.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.5.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.5.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pandora",
+      "version": "OS3.0.9.0.WBLCNXM",
+      "assetName": "pandora_init_boot_OS3.0.9.0.WBLCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pandora_init_boot_OS3.0.9.0.WBLCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.16.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.16.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.16.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.17.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.17.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.17.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.20.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.20.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.20.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.24.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.24.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.24.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.25.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.25.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.25.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.300.2.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.300.2.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.300.2.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.300.9.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.300.9.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.300.9.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.30.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.30.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.30.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.3.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.3.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.3.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.32.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.32.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.32.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.34.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.34.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.34.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.36.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.36.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.36.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.40.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.40.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.40.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.41.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.41.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.41.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.45.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.45.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.45.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.5.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.5.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.5.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.7.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.7.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.7.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "popsicle",
+      "version": "OS3.0.9.0.WPBCNXM",
+      "assetName": "popsicle_init_boot_OS3.0.9.0.WPBCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/popsicle_init_boot_OS3.0.9.0.WPBCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.16.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.16.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.16.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.17.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.17.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.17.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.20.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.20.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.20.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.24.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.24.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.24.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.25.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.25.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.25.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.300.3.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.300.3.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.300.3.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.300.9.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.300.9.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.300.9.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.30.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.30.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.30.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.304.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.304.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.304.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.3.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.3.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.3.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.32.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.32.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.32.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.34.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.34.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.34.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.36.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.36.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.36.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.40.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.40.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.40.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.41.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.41.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.41.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.44.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.44.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.44.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.5.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.5.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.5.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.7.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.7.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.7.0.WPCCNXM.img",
+      "partition": "init_boot"
+    },
+    {
+      "model": "pudding",
+      "version": "OS3.0.9.0.WPCCNXM",
+      "assetName": "pudding_init_boot_OS3.0.9.0.WPCCNXM.img",
+      "browserDownloadUrl": "https://boot.nb.734592.xyz/pudding_init_boot_OS3.0.9.0.WPCCNXM.img",
+      "partition": "init_boot"
+    }
+  ]
+}
