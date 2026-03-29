@@ -646,7 +646,7 @@ async function loadManifest() {
   });
 
   if (!manifestResp.ok) {
-    throw new Error(`下载本地清单失败: ${manifestResp.status} ${manifestResp.statusText}`);
+    throw new Error(`下载远程清单失败: ${manifestResp.status} ${manifestResp.statusText}`);
   }
 
   const manifestJson = await manifestResp.json();
