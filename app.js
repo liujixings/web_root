@@ -14,7 +14,8 @@ import {
 
 const THEME_MODE_KEY = "webRootAssistant.themeMode";
 const THEME_MODES = ["system", "light", "dark"];
-const LOCAL_MANIFEST_URL = "./root-manifest.json";
+const MANIFEST_URL =
+  "https://gh-proxy.org/https://raw.githubusercontent.com/liujixings/web_root/Mi17/root-manifest.json";
 
 const state = {
   adb: null,
@@ -637,15 +638,15 @@ function populateManualVersionOptions() {
   }
 }
 
-async function loadManifestFromLocalFile() {
-  log("info", `开始加载本地清单: ${LOCAL_MANIFEST_URL}`);
+async function loadManifest() {
+  log("info", `开始加载远程清单: ${MANIFEST_URL}`);
 
-  const manifestResp = await fetch(LOCAL_MANIFEST_URL, {
+  const manifestResp = await fetch(MANIFEST_URL, {
     cache: "no-store",
   });
 
   if (!manifestResp.ok) {
-    throw new Error(`下载本地清单失败: ${manifestResp.status} ${manifestResp.statusText}`);
+    throw new Error(`下载远程清单失败: ${manifestResp.status} ${manifestResp.statusText}`);
   }
 
   const manifestJson = await manifestResp.json();
@@ -658,7 +659,7 @@ async function loadManifestFromLocalFile() {
   state.manifestEntries = entries;
   populateManualModelOptions();
 
-  log("info", "本地清单加载完成", { count: entries.length, source: LOCAL_MANIFEST_URL });
+  log("info", "远程清单加载完成", { count: entries.length, source: MANIFEST_URL });
 }
 
 function pickRootTarget() {
@@ -869,7 +870,7 @@ async function oneClickRoot() {
     }
 
     if (!state.manifestEntries.length) {
-      await loadManifestFromLocalFile();
+      await loadManifest();
     }
 
     await refreshDeviceInfo();
@@ -890,7 +891,7 @@ async function oneClickRoot() {
 async function manualStartRoot() {
   try {
     if (!state.manifestEntries.length) {
-      await loadManifestFromLocalFile();
+      await loadManifest();
     }
 
     const target = pickManualTarget();
@@ -992,8 +993,8 @@ function init() {
     AdbDefaultInterfaceFilter
   );
 
-  loadManifestFromLocalFile().catch((error) => {
-    log("error", "本地清单自动加载失败", error.message || String(error));
+  loadManifest().catch((error) => {
+    log("error", "远程清单自动加载失败", error.message || String(error));
   });
 }
 
